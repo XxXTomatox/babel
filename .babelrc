@@ -1,0 +1,5 @@
+{
+  "presets": ["@babel/preset-env"]
+}
+
+//use strict se usa para que se combierta en modo restringuido 

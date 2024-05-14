@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "@babel/cli": "^7.23.9",
+    "@babel/core": "^7.23.9",
+    "@babel/preset-env": "^7.23.9"
+  },
+  "scripts": {
+    "build": "babel src -d controller --watch"
+  },
+  "dependencies": {
+    "sweetalert2": "^11.10.8"
+  }
+}
